@@ -1,0 +1,1 @@
+It’s actually a game and considered as my Computer Graphics courses project work in undergrad. In this game alien aircrafts comes to the screen from random positions and the rate of enemies increases through level by level. To control the alien ships threads is being used. Here player shoots the alien aircrafts and score points.
